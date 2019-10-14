@@ -12,9 +12,4 @@ def count_words(filename):
         print("The file " + filename + " has about " + str(num_words) + 
               " words.")
 
-filenames = ['alic.txt', 'simeon.txt', 'A_tale_of_two_cities.txt',
-             'Dracula.txt', 'the_little_women.txt']
-for filename in filenames:
-    count_words(filename)
-
 
