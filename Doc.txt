@@ -1,0 +1,2 @@
+file_path = 'C:\Users\C0dem@sK\other_files\text_files\filename.txt'
+with open(file_path) as file_object:
